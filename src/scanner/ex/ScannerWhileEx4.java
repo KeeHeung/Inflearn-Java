@@ -28,7 +28,7 @@ public class ScannerWhileEx4 {
 
 
             } else if (option == 2) {
-                System.out.println("총 비용: " + totalCost);
+                System.out.println("총 비용: " + totalCost + "원");
                 totalCost = 0;
             } else if (option == 3) {
                 System.out.println("프로그램을 종료합니다.");
