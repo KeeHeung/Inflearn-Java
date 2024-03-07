@@ -1,6 +1,6 @@
 package method;
 
-public class method1 {
+public class Method1 {
     public static void main(String[] args) {
         //계산1
         int a = 1;
@@ -9,6 +9,8 @@ public class method1 {
         System.out.println(a + "+" + b + " 연산 수행");
         int sum1 = a + b;
         System.out.println("결과1 출력: " + sum1);
+
+        System.out.println("=================");
 
         //계산2
         int x = 10;
