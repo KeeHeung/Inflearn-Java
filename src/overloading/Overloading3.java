@@ -7,7 +7,7 @@ public class Overloading3 {
     }
 
     // 첫 번째 add 메서드: 두 정수를 받아서 합을 반환한다.
-    public static int myMethod(int a, int b) {
+    public static int add(int a, int b) {
         System.out.println("1번 호출");
         return a + b;
     }
